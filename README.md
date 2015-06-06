@@ -29,9 +29,10 @@ We are appreciate for your feedback, you could send us your ideas by an issue he
 - Website: [https://taskwukong.com](https://taskwukong.com)
 
 BY USING THE APP, YOU AGREE TO THESE TERMS; IF YOU DO NOT AGREE, DO NOT USE THE APP:
-[Privacy Policy](https://taskwukong.com/privacy/privacy-policy-en/)
-[Terms of Use](https://taskwukong.com/taskwukong-app-terms/taskwukong-app-terms-en/)
 
-Security Disclosure
+- [Privacy Policy](https://taskwukong.com/privacy/privacy-policy-en/)
+- [Terms of Use](https://taskwukong.com/taskwukong-app-terms/taskwukong-app-terms-en/)
+
+##### Security Disclosure
 
 If you believe you have identified a security vulnerability with this APP, you should report it as soon as possible via email to admin@taskwukong.com. Please do not post it to a public issue tracker.
